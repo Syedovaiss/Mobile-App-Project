@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Khareedaari</string>
+    <string name="Welcome">"Welcome Back!</string>
+    <string name="intro_heading01">T-Shirts</string>
+    <string name="intro_heading02">Shoes</string>
+    <string name="intro_heading03">Belts</string>
+    <string name="intro_heading04">Wallets</string>
+    <string name="Welcome_Description">Khareedaari is an mobile app development project developed by Syed Ovais Akhtar,Laraib Gulzar,Rameez Rahmani.Mostly Screens of this project are designed on Adobe XD and Logo is created online</string>
+    <string name="intro_description01">We have the best T-Shirts in town within your budget</string>
+    <string name="intro_description02">We have the best Shoes in town within your budget</string>
+    <string name="intro_description03">We have the best Belts in town within your budget</string>
+    <string name="intro_description04">We have the best Wallets in town within your budget</string>
+
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account_text">Don\'t have an account?Create Account</string>
+    <string name="already_account_text">Already have an account?Login</string>
+
+
+</resources>
